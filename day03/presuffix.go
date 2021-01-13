@@ -8,6 +8,7 @@ import (
 func main() {
 	str := "this is an example"
 
+	
 	fmt.Println(str)
 	
 	// 是否是以 this 为前缀
